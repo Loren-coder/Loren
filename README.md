@@ -16,4 +16,4 @@
 * Onshore wind turbine siting in Rhode Island
 * Exploring the optimal energy mix in Rhode Island
 ## Acedemic Advisor
-[Corey Lang]https://works.bepress.com/corey_lang/)
+[Corey Lang](https://works.bepress.com/corey_lang/)

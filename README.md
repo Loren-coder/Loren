@@ -15,3 +15,5 @@
 * Evaluating the impacts of Block Island Wind Farm on property values
 * Onshore wind turbine siting in Rhode Island
 * Exploring the optimal energy mix in Rhode Island
+## Acedemic Advisor
+[Corey Lang]https://works.bepress.com/corey_lang/)

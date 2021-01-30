@@ -4,7 +4,7 @@
 * English name: Loren
 ## Academic Background
 - I am a second year Phd student in Environmental Economics in URI. 
-!![Logo](https://en.wikipedia.org/wiki/Rhode_Island_Rams)
+![URI](https://en.wikipedia.org/wiki/Rhode_Island_Rams#/media/File:Rhode_Island_Rams_logo.svg)
 - I got my MS degree from the University of Georgia before I came here. 
 ## Research Interst 
 * Energy Economics

@@ -4,7 +4,7 @@
 * English name: Loren
 ## Academic Background
 - I am a second year Phd student in Environmental Economics in URI. 
-<img src="https://images.squarespace-cdn.com/content/5936a9052e69cf2cca876569/1521753364463-MTRBM0YQ2Q1BNV0LW0VF/uri1.png?format=1500w&content-type=image%2Fpng" width="300" height="200">
+<img src="https://images.squarespace-cdn.com/content/5936a9052e69cf2cca876569/1521753364463-MTRBM0YQ2Q1BNV0LW0VF/uri1.png?format=1500w&content-type=image%2Fpng" width="200" height="200">
 
 - I got my MS degree from the University of Georgia before I came here. 
 <img src="https://christianindex.org/wp-content/uploads/2016/04/UGA-logo.jpg" width="200" height="200">

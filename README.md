@@ -3,9 +3,9 @@
 * Chinese name: Luran Dong 
 * English name: Loren
 ## Academic Background
-- I am a second year Phd student in Environmental Economics in URI. 
+- I am a second year Phd student in Environmental Economics in URI. <img src="https://images.squarespace-cdn.com/content/5936a9052e69cf2cca876569/1521753364463-MTRBM0YQ2Q1BNV0LW0VF/uri1.png?format=1500w&content-type=image%2Fpng" width="100" height="90">
 
-<img src="https://images.squarespace-cdn.com/content/5936a9052e69cf2cca876569/1521753364463-MTRBM0YQ2Q1BNV0LW0VF/uri1.png?format=1500w&content-type=image%2Fpng" width="100" height="90">
+
 - I got my MS degree from the University of Georgia before I came here. 
 ![UGA](https://mk0sicemdawgsgcndkde.kinstacdn.com/wp/wp-content/uploads/2014/12/uga-logo-black.png)
 ## Research Interst 

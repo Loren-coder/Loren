@@ -2,9 +2,10 @@
 
 string = 'hi dee hi how are you mr dee'
 
-print(string.count("hi"))
-print(string.count("dee"))
-print(string.count("how"))
-print(string.count("are"))
-print(string.count("you"))
-print(string.count("mr"))
+
+print ("hi" ,string.count("hi"))
+print("dee" ,string.count("dee"))
+print("how",string.count("how"))
+print("are",string.count("are"))
+print("you",string.count("you"))
+print("mr",string.count("mr"))

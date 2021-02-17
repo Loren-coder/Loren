@@ -3,9 +3,9 @@
 string = 'hi dee hi how are you mr dee'
 
 
-print ("hi",string.count("hi"))
-print("dee",string.count("dee"))
-print("how",string.count("how"))
-print("are",string.count("are"))
-print("you",string.count("you"))
-print("mr",string.count("mr"))
+print ("hi" + string.count("hi"))
+print("dee" + string.count("dee"))
+print("how" + string.count("how"))
+print("are"+ string.count("are"))
+print("you"+ string.count("you"))
+print("mr"+ string.count("mr"))

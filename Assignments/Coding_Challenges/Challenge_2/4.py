@@ -1,5 +1,5 @@
 # 4. User input
-age = input("What is your age? ")
+age = input("What is your age?")
 
 years=65-age
 

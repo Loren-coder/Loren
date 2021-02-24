@@ -1,6 +1,5 @@
 # 1. Simple directory tree
 
-
 import os
 
 os.mkdir(r"C:\draft_code")

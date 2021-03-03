@@ -37,3 +37,5 @@ os.rmdir(r"C:\layouts\post")
 os.rmdir(r"C:\layouts")
 
 os.rmdir(r"C:/site")
+
+#Feedback - technically this is correct, again a lot of manual work done to create these folder trees.

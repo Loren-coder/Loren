@@ -9,3 +9,6 @@ print("are"+" "+str(string.count("are")))
 print("you"+" "+str(string.count("you")))
 print("mr"+" "+str(string.count("mr")))
 
+# Technically correct, but this is a lot of manual work to do. I would suggest you do this in code instead, you can
+# 1. split string to list
+# 2. Count occurrences of item in teh list.

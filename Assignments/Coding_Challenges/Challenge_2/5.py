@@ -10,4 +10,9 @@ score = {"a": 1, "b": 3, "c": 3, "d": 2, "e": 1,  "f": 4,
          "y": 4,"z": 10}
 
 sum=sum(score[i] for i in word)
-print sum
+print(sum)
+
+# Feedback - Repaired print statement. This works and is correct, but will throw an error if I give this anything
+# that is not incorporated in your dictionary. For example, if I give it a number "1", it kicks out
+# a key error: KeyError: '1'
+# this means it cannot find the key "1" inside the dictionary, you need to catch that otherwise issues arise.

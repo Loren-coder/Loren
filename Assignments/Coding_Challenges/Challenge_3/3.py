@@ -10,6 +10,7 @@ with open("co2-ppm-daily.csv") as co2:
     next(co2)
 
     for row in csv_reader:
+        #print(row)
         year, month, day = row[0].split("-")
         if year not in year_set:
             year_set.append(year)
@@ -19,9 +20,9 @@ with open("co2-ppm-daily.csv") as co2:
         value_set.append(float(row[1]))
         line_count = line_count + 1
 
-print "Minimum = " + str(min(value_set))
-print "Maximum = " + str(max(value_set))
-print "Average = " + str(float(sum(value_set) / int(line_count)))
+print("Minimum = " + str(min(value_set)))
+print("Maximum = " + str(max(value_set)))
+print("Average = " + str(float(sum(value_set) / int(line_count))))
 
 
 # Annual Averages
@@ -40,7 +41,7 @@ for year in year_set:
 
     Annual_Averages[year] = str(sum(temp_year_set) / len(temp_year_set))
 
-print "Annual_Averages =" + str(Annual_Averages)
+print("Annual_Averages =" + str(Annual_Averages))
 
 # Seasonal Averages
 
@@ -63,10 +64,10 @@ with open("co2-ppm-daily.csv") as co2:
         if month_co2 == '12' or month_co2 == '01' or month_co2 == '02':
             winter_set.append(float(row[1]))
 
-print "Spring Average= " + str(sum(spring_set) / len(spring_set))
-print "Summer Average= " + str(sum(summer_set) / len(summer_set))
-print "Autumn Average= " + str(sum(fall_set) / len(fall_set))
-print "Winter Average= " + str(sum(winter_set) / len(winter_set))
+print("Spring Average= " + str(sum(spring_set) / len(spring_set)))
+print("Summer Average= " + str(sum(summer_set) / len(summer_set)))
+print("Autumn Average= " + str(sum(fall_set) / len(fall_set)))
+print("Winter Average= " + str(sum(winter_set) / len(winter_set)))
 
 # Anomaly Calculation
 
@@ -80,3 +81,10 @@ with open("co2-ppm-daily.csv") as co2:
     for row in csv_reader:
         year_co2, month_co2, day = row[0].split("-")
         anomaly_set[year_co2] = float(row[1]) - overall_average
+
+print(anomaly_set)
+
+# Feedback - Fixed print statements, immediately got an error on line 13, indiicating a list index out of range
+# this suggests that something was failing in your first read of the co2 file. And I think you have an empty row in the
+# csv dataset (yes, two empty rows in CO2-ppm-daily.csv at the very end of the file). Once removed, everything worked.
+# Well done!

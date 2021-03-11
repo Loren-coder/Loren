@@ -10,3 +10,7 @@ list = [1, 2, 3]; print(list)
 list2 = [1, 2, 3, 6, 8, 12, 20, 32, 46, 85]
 
 # Find values less than 5.
+
+for i in list2:
+    if i<5:
+        print (i)

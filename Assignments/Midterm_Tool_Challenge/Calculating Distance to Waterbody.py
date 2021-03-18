@@ -12,7 +12,7 @@
 # Depth of processing operation (10 points)
 # In addition, you must provide example data and minimize the amount of editing a user must make in order for the program to run (10 points).
 
-# Calculate distance to the waterbody of each house
+# Calculate the distance to waterbody of each house
 
 import arcpy
 

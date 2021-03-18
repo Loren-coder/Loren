@@ -12,5 +12,7 @@
 
 import arcpy
 arcpy.env.workspace = r"F:\BI GIS\Boundary"
+# This is the folder location for all data
 
 arcpy.Union_analysis(["OUTLINE25K_POLY.shp", "muni97d.shp"], "MA_RI")
+# The files in the brackets are input features, "MA_RI" is the output data name. Union tool allows me to combine RI and MA together.

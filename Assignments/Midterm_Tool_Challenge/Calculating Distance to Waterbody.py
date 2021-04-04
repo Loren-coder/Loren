@@ -19,7 +19,7 @@ import arcpy
 
 arcpy.env.overwriteOutput = True
 
-arcpy.env.workspace=r"C:\Users\17065\OneDrive\Desktop\NRS 528\Midterm"
+arcpy.env.workspace=r"C:\Data\Students_2021\Dong\Assignments\Midterm_Tool_Challenge\Davies_data\Data"
 
 WA_coast_single_XY_correct_csv = "WA_coast_single_XY_correct.csv"
 Boundary = "Boundary.shp"

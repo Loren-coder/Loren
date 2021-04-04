@@ -16,7 +16,7 @@ arcpy.env.overwriteOutput = True
 
 
 
-arcpy.env.workspace = r"C:\Users\17065\OneDrive\Desktop\NRS 528"
+arcpy.env.workspace = r"C:\Data\Students_2021\Dong\Assignments\Coding_Challenges\Challenge_5"
 
 in_Table = r"2 species.csv"
 x_coords = "decimallongitude"
@@ -92,3 +92,7 @@ if arcpy.Exists(out_feature_class):
     print ("Deleting intermediate files")
     arcpy.Delete_management(target_features)
     arcpy.Delete_management(join_features)
+
+
+## Davies Feedback - The code executed successfully, but only 1 fishnet was generated. This seemed to contain joins for both
+# species, which was not what was required. You should draw a fishnet for each species.

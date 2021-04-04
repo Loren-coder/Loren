@@ -134,3 +134,10 @@ NDVI = "C:\\Users\\17065\\OneDrive\\Desktop\\NRS 528\\NDVI\\ndvi11"
 Raster_Calculator = NDVI
 NDVI = nvdi =  (LC08_L1TP_012031_20150201_20170301_01_T1_B5_tif-LC08_L1TP_012031_20150201_20170301_01_T1_B4_tif)/(LC08_L1TP_012031_20150201_20170301_01_T1_B5_tif+LC08_L1TP_012031_20150201_20170301_01_T1_B4_tif)
 NDVI.save(Raster_Calculator)
+
+
+
+## Davies Feedback - I was not able to test this as you have taken several short cuts to achieving the challenge by
+# hard coding file paths throughout. Whilst your code works on your machine, to make it work for me will take as long as it would
+# to write the code. You have to avoid taking such short cuts, you should be using directory searches and building lists of files
+# to manipulate.

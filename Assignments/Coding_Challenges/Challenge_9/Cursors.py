@@ -64,8 +64,8 @@ arcpy.env.overwriteOutput = True
 
 output="photo.shp"
 output1="no_photo.shp"
-expression="'photo'='y'"
-expression1="'photo'<>'y'"
+expression="photo = 'y'"
+expression1="photo<>'y'"
 arcpy.Select_analysis(input_shp, output, expression)
 arcpy.Select_analysis(input_shp, output1, expression1)
 

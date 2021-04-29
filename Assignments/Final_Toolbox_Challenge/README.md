@@ -1,7 +1,7 @@
 # Mapping for suitable houses on Block Island
 
 ## Study Area
-<img src=https://seewesterly.com/wp-content/uploads/2017/09/blockislandmap.jpg width="200" height="200">
+<img src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkqdc4mADMnzDJ96KWP0C3559yn_GzezlK-w&usqp=CAU width="200" height="200">
 
 ## Convenience
 - Within 100 meters to the major roads

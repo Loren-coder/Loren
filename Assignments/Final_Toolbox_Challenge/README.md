@@ -15,14 +15,14 @@
 
 - This tool displays houses on Block Island using the coordinates in the table
 
-### Buffer
+### [Buffer](https://pro.arcgis.com/en/pro-app/latest/tool-reference/analysis/buffer.htm)
 
 - Buffer tool will create a 100-meter buffer zone
 
-### Intersect
+### [Intersect](https://pro.arcgis.com/en/pro-app/latest/tool-reference/analysis/intersect.htm)
 
 - This tool creats a new layer of houses in the buffer zone
 
-### Select
+### [Select](https://pro.arcgis.com/en/pro-app/latest/tool-reference/analysis/select.htm)
 
 - This tool then selects houses within $1,000,000

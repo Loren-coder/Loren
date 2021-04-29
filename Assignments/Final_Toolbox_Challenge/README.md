@@ -3,11 +3,13 @@
 ## Study Area
 <img src=https://seewesterly.com/wp-content/uploads/2017/09/blockislandmap.jpg width="200" height="300">
 
-## Convenience
+## Criteria
+### Convenience
 - Within 100 meters to the major roads
-## Affordability
+### Affordability
 - Housing prices are below $1,000,000
-## There are 4 GIS tools in the toolbox for this research
+## Tools
+-There are 4 GIS tools in the toolbox for this research
 
 ### XY Table To Point
 

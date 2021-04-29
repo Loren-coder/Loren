@@ -189,7 +189,7 @@ class Intersect(object):
         arcpy.Intersect_analysis([input1, input2], output)
 
 
-# Calculate distance to the coast. A new column will add to the attribute table
+#  Select houses within $1,000,000
 
 class Select(object):
     def __init__(self):

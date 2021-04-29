@@ -13,7 +13,7 @@
 
 ### [XY Table To Point](https://pro.arcgis.com/en/pro-app/latest/tool-reference/data-management/xy-table-to-point.htm)
 
-- This tool displays houses on Block Island using the coordinates in the table
+- XY Table To Point tool displays houses on Block Island using the coordinates in the table
 
 ### [Buffer](https://pro.arcgis.com/en/pro-app/latest/tool-reference/analysis/buffer.htm)
 
@@ -21,8 +21,8 @@
 
 ### [Intersect](https://pro.arcgis.com/en/pro-app/latest/tool-reference/analysis/intersect.htm)
 
-- This tool creats a new layer of houses in the buffer zone
+- Intersect tool creats a new layer of houses in the buffer zone
 
 ### [Select](https://pro.arcgis.com/en/pro-app/latest/tool-reference/analysis/select.htm)
 
-- This tool then selects houses within $1,000,000
+- Select tool then selects houses within $1,000,000

@@ -1,4 +1,8 @@
-# Mapping for suitable houses based on the following criteria.
+# Mapping for suitable houses on Block Island
+
+## Study Area
+
+
 ## Convenience
 - Within 100 meters to the major roads
 ## Affordability
@@ -7,7 +11,7 @@
 
 ### XY Table To Point
 
-
+- This tool can display houses 
 
 ### Buffer
 

@@ -1,7 +1,7 @@
 # Mapping for suitable houses on Block Island
 
 ## Study Area
-<img src=https://seewesterly.com/wp-content/uploads/2017/09/blockislandmap.jpg width="200" height="300">
+<img src=https://seewesterly.com/wp-content/uploads/2017/09/blockislandmap.jpg width="200" height="300"><img src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZYzIy0qnGkB0maotBjianxeatLDLxiOicgA&usqp=CAU>
 
 ## Criteria
 ### Convenience

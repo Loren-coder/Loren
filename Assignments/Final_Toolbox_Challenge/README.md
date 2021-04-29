@@ -11,16 +11,16 @@
 
 ### XY Table To Point
 
-- This tool can display houses on Block Island using the coordinates in the table
+- This tool displays houses on Block Island using the coordinates in the table
 
 ### Buffer
 
-- Buffer tool can create a 100-meter buffer zone
+- Buffer tool will create a 100-meter buffer zone
 
 ### Intersect
 
-- This tool can creat a new layer with houses in the buffer zone
+- This tool creats a new layer of houses in the buffer zone
 
 ### Select
 
-- This tool selects houses within $1,000,000
+- This tool then selects houses within $1,000,000

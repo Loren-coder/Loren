@@ -7,7 +7,7 @@
 <img src="https://images.squarespace-cdn.com/content/5936a9052e69cf2cca876569/1521753364463-MTRBM0YQ2Q1BNV0LW0VF/uri1.png?format=1500w&content-type=image%2Fpng" width="200" height="200">
 
 - I got my MS degree from the University of Georgia before I came here. 
-<img src="https://en.wikipedia.org/wiki/Georgia_Bulldogs_equestrian#/media/File:Georgia_Athletics_logo.svg" width="200" height="200">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Georgia_Athletics_logo.svg/1200px-Georgia_Athletics_logo.svg.png" width="200" height="200">
 
 ## Research Interst 
 * Energy Economics

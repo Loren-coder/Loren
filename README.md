@@ -7,7 +7,7 @@
 <img src="https://images.squarespace-cdn.com/content/5936a9052e69cf2cca876569/1521753364463-MTRBM0YQ2Q1BNV0LW0VF/uri1.png?format=1500w&content-type=image%2Fpng" width="200" height="200">
 
 - I got my MS degree from the University of Georgia before I came here. 
-<img src="https://christianindex.org/wp-content/uploads/2016/04/UGA-logo.jpg" width="200" height="200">
+<img src="[https://christianindex.org/wp-contentploads/2016/04/UGA-logo.jpg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FGeorgia_Bulldogs_equestrian&psig=AOvVaw17tK4EiDIEkHcXLjXBfMvU&ust=1756557751255000&source=images&cd=vfe&opi=89978449&ved=0CBYQjRxqFwoTCMi7g_WFsI8DFQAAAAAdAAAAABAE)" width="200" height="200">
 
 ## Research Interst 
 * Energy Economics
